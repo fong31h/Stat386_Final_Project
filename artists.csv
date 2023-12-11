@@ -1,345 +1,344 @@
-,name,ontour,playcount,listeners,genre1,genre2,genre3,sex,first_album,age (since 1st album)
-0,Pierce The Veil,0,81849436,1131032,post hardcore,emocore,emo,mb,2007.0,16.0
-1,Ed Sheeran,1,179979468,3125873,acoustic,british,singer songwriter,m,2011.0,12.0
-2,Nicki Minaj,1,183090599,3609036,hip hop,rap,rnb,f,2010.0,13.0
-3,Muse,0,418280263,5015125,alternative rock,rock,alternative,mb,1999.0,24.0
-4,Black Sabbath,0,142624552,3322344,heavy metal,hard rock,classic rock,mb,1970.0,53.0
-5,aespa,1,82200071,615862,k pop,pop,hyperpop,fb,2021.0,2.0
-6,Depeche Mode,1,219136579,3478486,electronic,new wave,80s,mb,1981.0,42.0
-7,Elton John,0,105311040,3960105,pop,classic rock,singer songwriter,m,1969.0,54.0
-8,ABBA,1,105248686,2999234,pop,disco,70s,mfb,1973.0,50.0
-9,Big Thief,0,44149583,770055,indie rock,folk,indie folk,mfb,2016.0,7.0
-10,Gwen Stefani,1,52033052,3193923,pop,dance,rock,f,2004.0,19.0
-11,Laufey,1,39011152,714538,jazz,pop,soul,f,2022.0,1.0
-12,Young Thug,0,99877669,1230730,trap,hip hop,rap,m,2019.0,4.0
-13,Amy Winehouse,0,132703596,3449363,soul,jazz,british,f,2003.0,20.0
-14,Miguel,1,41001567,1806385,rnb,soul,hip hop,m,2010.0,13.0
-15,Arctic Monkeys,0,590519619,5351983,indie rock,indie,british,mb,2006.0,17.0
-16,The Weeknd,0,561111265,3622518,rnb,electronic,dubstep,m,2013.0,10.0
-17,Nirvana,0,357002993,5808751,grunge,rock,alternative,mb,1989.0,34.0
-18,System of a Down,0,313341185,4449587,metal,alternative metal,rock,mb,1998.0,25.0
-19,Nelly Furtado,0,68359672,3402839,pop,folk,singer songwriter,f,2000.0,23.0
-20,Drake,1,585984507,5271101,hip hop,rap,rnb,m,2010.0,13.0
-21,Glass Animals,0,78441487,1760248,electronic,trip hop,british,mb,2014.0,9.0
-22,Kylie Minogue,1,117598683,2684649,pop,dance,electronic,f,1988.0,35.0
-23,The Strokes,0,298306959,4459850,indie rock,rock,indie,mb,2001.0,22.0
-24,Metallica,0,375554594,3910517,thrash metal,metal,heavy metal,mb,1983.0,40.0
-25,Aminé,0,43979981,1080343,rap,hip hop,trap,m,2017.0,6.0
-26,Lana Del Rey,0,800159312,3757731,indie,indie pop,pop,f,2010.0,13.0
-27,Kelly Clarkson,0,87991147,3354748,pop,pop rock,rock,f,2003.0,20.0
-28,Michael Jackson,0,204111172,5046989,pop,80s,dance,m,1972.0,51.0
-29,Zach Bryan,1,31333757,468063,country,americana,singer songwriter,m,2019.0,4.0
-30,Snoop Dogg,0,58619042,3477215,hip hop,rap,gangsta rap,m,1993.0,30.0
-31,BROCKHAMPTON,0,147132525,1225380,hip hop,rap,pop rap,mb,2017.0,6.0
-32,Lil Baby,0,87543405,991768,hip hop,rap,trap,m,2018.0,5.0
-33,VACATIONS,1,25643220,946936,indie,dream pop,indie rock,mb,2018.0,5.0
-34,Hozier,1,107696165,2093294,blues,indie,soul,m,2014.0,9.0
-35,Wham!,0,23164876,2224127,80s,pop,british,mb,1983.0,40.0
-36,Ariana Grande,0,482542727,2932667,pop,rnb,ariana grande,f,2013.0,10.0
-37,Cardi B,1,46216748,1541688,hip hop,rap,trap,f,2018.0,5.0
-38,Suki Waterhouse,1,12832400,712763,electronic,indie pop,pop,f,2022.0,1.0
-39,Camila Cabello,0,71130189,1376742,pop,cuba,cuban,f,2018.0,5.0
-40,Tory Lanez,0,55619530,1136364,rnb,hip hop,rap,m,2016.0,7.0
-41,One Direction,0,178163137,2263762,pop,british,boyband,mb,2011.0,12.0
-42,Surf Curse,0,21598429,1017983,lo fi,surf,garage rock,mb,2013.0,10.0
-43,The 1975,1,176306097,1893257,indie,indie rock,british,mb,2013.0,10.0
-44,Jeff Buckley,0,62880395,2155560,singer songwriter,rock,alternative,m,1994.0,29.0
-45,a-ha,0,41452109,2460139,80s,pop,new wave,mb,1983.0,40.0
-46,Bon Iver,0,172381011,2808901,folk,indie,singer songwriter,mfb,2007.0,16.0
-47,Katy Perry,0,265976829,5406637,pop,pop rock,indie,f,2001.0,22.0
-48,The Doors,0,169881340,3903565,classic rock,psychedelic rock,rock,mb,1967.0,56.0
-49,Cigarettes After Sex,0,107554366,1565437,dream pop,shoegaze,lo fi,mfb,2017.0,6.0
-50,Madvillain,0,75662650,1406586,hip hop,underground hip hop,rap,mb,2004.0,19.0
-51,Lil Wayne,0,39840909,1216021,rap,hip hop,gangsta rap,m,1999.0,24.0
-52,d4vd,1,27780302,969312,pop,rock,rnb,m,2023.0,0.0
-53,Sia,0,122477518,3287697,chillout,indie,trip hop,f,1997.0,26.0
-54,Pinegrove,0,20898323,583557,indie rock,alt country,indie,mfb,2012.0,11.0
-55,Gucci Mane,0,39565707,2065701,hip hop,rap,trap,m,2005.0,18.0
-56,Timbaland,0,41314995,2649880,hip hop,rnb,rap,m,1998.0,25.0
-57,Joji,0,203101307,1897038,lo fi,rnb,hip hop,m,2018.0,5.0
-58,Pitbull,1,58290687,3130613,hip hop,rap,reggaeton,m,2004.0,19.0
-59,David Bowie,0,286569515,4425264,rock,glam rock,classic rock,m,1967.0,56.0
-60,Eminem,0,372779519,6220579,rap,hip hop,pop,m,1996.0,27.0
-61,Steve Lacy,1,134084517,1800139,jazz,free jazz,saxophone,m,2019.0,4.0
-62,Lil Nas X,0,88177700,1885911,hip hop,rap,country rap,m,2021.0,2.0
-63,Troye Sivan,0,92223546,1610002,pop,indie pop,male vocalists,m,2015.0,8.0
-64,Car Seat Headrest,0,91321524,882341,lo fi,indie,indie rock,mfb,2010.0,13.0
-65,Red Velvet,1,140001663,841109,k pop,pop,na,fb,2015.0,8.0
-66,Mitski,1,290576137,1772816,indie rock,indie,indie pop,f,2012.0,11.0
-67,The Kid Laroi,0,74432430,1327248,rap,hip hop,emo rap,m,2023.0,0.0
-68,SZA,1,261573748,2179599,rnb,soul,electronic,f,2017.0,6.0
-69,Mac DeMarco,0,164583033,1958513,lo fi,indie,experimental,m,2012.0,11.0
-70,Calvin Harris,0,132952089,3702762,electronic,dance,electro,m,2007.0,16.0
-71,Joy Division,0,137880125,2709035,post punk,new wave,80s,mb,1979.0,44.0
-72,Phoebe Bridgers,0,160874473,1336664,singer songwriter,folk,indie folk,f,2017.0,6.0
-73,Gorillaz,0,315472165,5164053,alternative,electronic,hip hop,mfb,2001.0,22.0
-74,Migos,0,45045049,1287950,hip hop,trap,rap,mb,2015.0,8.0
-75,Lizzy McAlpine,1,32020579,698419,indie pop,acoustic,indie folk,f,2020.0,3.0
-76,Dr. Dre,0,63652853,3227597,hip hop,rap,gangsta rap,m,1992.0,31.0
-77,Linkin Park,0,408756724,5161460,rock,nu metal,alternative rock,mb,2000.0,23.0
-78,Marshmello,1,40130991,1686531,electronic,dance,trap,m,2016.0,7.0
-79,$uicideboy$,1,208102134,956220,cloud rap,hip hop,trap,mb,2018.0,5.0
-80,Tears for Fears,0,51941227,2687034,new wave,80s,pop,mb,1983.0,40.0
-81,The Smiths,0,298535289,3564563,indie,80s,post punk,mb,1984.0,39.0
-82,Kali Uchis,0,140576106,1808824,rnb,neo soul,soul,f,2018.0,5.0
-83,Rosalía,0,103763160,1141254,pop,flamenco,spain,f,2017.0,6.0
-84,Coldplay,1,543775070,7172542,rock,alternative,alternative rock,mb,2000.0,23.0
-85,Jack Harlow,0,48949415,1174668,rap,hip hop,trap,m,2020.0,3.0
-86,Mac Miller,0,241766629,2451390,hip hop,rap,underground hip hop,m,2011.0,12.0
-87,Kodak Black,1,56780086,1111291,trap,hip hop,rap,m,2017.0,6.0
-88,Queens of the Stone Age,1,186194912,3057719,stoner rock,rock,alternative rock,mfb,1998.0,25.0
-89,Michael Bublé,0,69633707,2688463,jazz,swing,easy listening,m,2001.0,22.0
-90,Ken Carson,1,62119704,443771,trap,cloud rap,rap,m,2021.0,2.0
-91,Slowdive,1,78485773,1314540,shoegaze,dream pop,ambient,mfb,1991.0,32.0
-92,Girl In Red,0,58752778,1445734,indie,dream pop,lo fi,f,2021.0,2.0
-93,Pop Smoke,0,93535415,1085102,drill,rap,trap,m,2020.0,3.0
-94,Talking Heads,0,90713580,2431485,new wave,post punk,80s,mfb,1977.0,46.0
-95,Denzel Curry,0,86829834,1017370,hip hop,rap,trap,m,2013.0,10.0
-96,The Cure,1,252765202,4107244,post punk,new wave,alternative,mb,1979.0,44.0
-97,Elvis Presley,0,104785424,3354339,rock n roll,classic rock,rock,m,1956.0,67.0
-98,TWICE,1,264242003,987539,k pop,pop,girl group,fb,2017.0,6.0
-99,Blondie,0,48417015,2523202,new wave,80s,rock,mfb,1976.0,47.0
-100,Paramore,1,328244792,3979972,rock,pop punk,alternative,mfb,2005.0,18.0
-101,Crystal Castles,0,148329738,2252070,electronic,8 bit,new rave,mfb,2008.0,15.0
-102,pinkpantheress,0,87796385,1534698,rnb,electronic,pop,f,2023.0,0.0
-103,beabadoobee,0,83838616,1266788,indie pop,bedroom pop,indie,f,2020.0,3.0
-104,Miley Cyrus,0,200165443,3646556,pop,disney,dance,f,2007.0,16.0
-105,JPEGMAFIA,0,114363268,771808,hip hop,glitch hop,experimental hip hop,m,2016.0,7.0
-106,Isaiah Rashad,0,47086609,798773,hip hop,rap,underground hip hop,m,2014.0,9.0
-107,Kid Cudi,0,192770252,3748223,hip hop,rap,alternative rap,m,2009.0,14.0
-108,Halsey,0,138276624,1845566,pop,indie pop,indie,f,2015.0,8.0
-109,Tove Lo,0,84911072,1685551,pop,swedish,electronic,f,2014.0,9.0
-110,Billy Idol,0,30836200,1991487,rock,80s,new wave,m,1982.0,41.0
-111,Offset,0,19037653,859521,trap,hip hop,rap,m,2019.0,4.0
-112,Chris Brown,0,88986792,3711876,rnb,hip hop,chris brown,m,2005.0,18.0
-113,Carly Rae Jepsen,1,106115545,2077116,pop,folk,acoustic,f,2008.0,15.0
-114,Guns N' Roses,0,150676852,4151138,hard rock,rock,classic rock,mfb,1987.0,36.0
-115,The Marías,0,30739670,888375,indie,indie pop,dream pop,mfb,2021.0,2.0
-116,Sufjan Stevens,0,204033450,2952305,indie,folk,singer songwriter,m,2000.0,23.0
-117,blink-182,1,243890787,3898515,punk rock,pop punk,punk,mb,1995.0,28.0
-118,Lil Yachty,1,61109583,1101159,trap,hip hop,rap,m,2017.0,6.0
-119,LE SSERAFIM,1,76282529,601461,k pop,pop,na,fb,2023.0,0.0
-120,Don Toliver,1,64228661,1173829,rap,trap,hip hop,m,2020.0,3.0
-121,Childish Gambino,0,172204010,2509443,hip hop,rap,indie,m,2011.0,12.0
-122,Beyoncé,0,385559320,5198753,rnb,pop,soul,f,2003.0,20.0
-123,Hotel Ugly,0,17394411,876131,indie,alternative,usa,m,2023.0,0.0
-124,Men I Trust,0,53471906,1238002,dream pop,indie,indie pop,mfb,2014.0,9.0
-125,Conan Gray,0,106006879,1440665,indie,pop,indie pop,m,2020.0,3.0
-126,Alex G,1,89151931,1049617,lo fi,singer songwriter,indie rock,m,2010.0,13.0
-127,Bring Me the Horizon,1,179019269,1985282,deathcore,metalcore,hardcore,mb,2006.0,17.0
-128,Queen,0,295329331,5618667,classic rock,rock,80s,mb,1973.0,50.0
-129,Aaron May,0,12415135,561761,rap,na,na,m,2019.0,4.0
-130,Charli XCX,0,183417997,1973435,pop,synthpop,electronic,f,2013.0,10.0
-131,ROAR,0,17602488,806182,indie pop,arizona,indie,m,2016.0,7.0
-132,Chase Atlantic,0,72288687,960539,rnb,indie,rock,mb,2017.0,6.0
-133,Metro Boomin,1,115601933,1476293,trap,hip hop,rap,m,2018.0,5.0
-134,M83,0,110054633,2778148,electronic,shoegaze,post rock,mfb,2001.0,22.0
-135,Eyedress,1,27450399,1112672,electronic,experimental,indie,m,2017.0,6.0
-136,Foo Fighters,1,260867870,5097329,rock,alternative rock,grunge,mb,1995.0,28.0
-137,Joey Bada$$,0,67617951,1178342,hip hop,rap,underground hip hop,m,2015.0,8.0
-138,Ive,0,68639426,562875,k pop,pop,na,fb,2023.0,0.0
-139,Dua Lipa,0,183632137,2213580,pop,electropop,synthpop,f,2017.0,6.0
-140,SKI MASK THE SLUMP GOD,0,40552116,859086,hip hop,trap,rap,m,2018.0,5.0
-141,The Goo Goo Dolls,0,10935772,821197,rock,alternative rock,alternative,mb,1987.0,36.0
-142,Mazzy Star,0,48233320,1620967,dream pop,indie,shoegaze,mfb,1990.0,33.0
-143,"Tyler, the Creator",0,449879030,2612923,hip hop,rap,underground hip hop,m,2011.0,12.0
-144,The Police,0,68154413,3219614,rock,classic rock,80s,mb,1978.0,45.0
-145,STRAY KIDS,0,204525147,652028,k pop,pop,hip hop,mb,2020.0,3.0
-146,Brent Faiyaz,1,91145980,1153978,rnb,soul,electronic,m,2017.0,6.0
-147,Labrinth,0,47997429,1824443,electronic,british,rnb,m,2012.0,11.0
-148,Melanie Martinez,1,131732491,1463636,pop,indie,indie pop,f,2015.0,8.0
-149,Megan Thee Stallion,0,74510557,1294954,rap,hip hop,trap,f,2020.0,3.0
-150,AC/DC,0,173083027,3640793,hard rock,classic rock,rock,mb,1975.0,48.0
-151,Boygenius,0,42572505,576768,indie,indie rock,indie folk,fb,2023.0,0.0
-152,Lord Huron,1,33595517,1360937,folk,indie,psychedelic,mfb,2012.0,11.0
-153,Tiësto,1,65634675,2534050,trance,electronic,dance,m,2001.0,22.0
-154,A BOOGIE WIT DA HOODIE,0,56635224,917905,hip hop,rap,american,m,2017.0,6.0
-155,Aphex Twin,0,137528602,2245291,electronic,ambient,experimental,m,1992.0,31.0
-156,Doja Cat,1,248759033,2275554,pop,rnb,rap,f,2018.0,5.0
-157,Charlie Puth,0,92510008,1544789,pop,rnb,soul,m,2016.0,7.0
-158,Ghost,0,84078259,1064020,heavy metal,psychedelic rock,doom metal,mb,2010.0,13.0
-159,Creedence Clearwater Revival,0,85235806,3175577,classic rock,rock,southern rock,mb,1968.0,55.0
-160,Jung Kook,0,247876733,656578,pop,k pop,bts,m,2023.0,0.0
-161,LUCKI,0,104190202,568471,trap,hip hop,rap,m,2019.0,4.0
-162,Foster the People,0,86042314,2781386,indie,indie pop,alternative,mb,2011.0,12.0
-163,The Beatles,0,730752557,5079780,classic rock,rock,british,mb,1963.0,60.0
-164,LIL PEEP,0,170048154,1269350,cloud rap,emo rap,hip hop,m,2017.0,6.0
-165,Kendrick Lamar,1,446291037,3303503,hip hop,rap,west coast,m,2011.0,12.0
-166,John Lennon,0,56033709,3065660,classic rock,rock,singer songwriter,m,1970.0,53.0
-167,Kanye West,0,879809322,6316432,hip hop,rap,rnb,m,2004.0,19.0
-168,Tyla,0,2506482,320312,rock,pop,british,f,2023.0,0.0
-169,Khalid,1,59822637,1566295,rnb,pop,soul,m,2017.0,6.0
-170,ENHYPEN,1,100176208,556212,k pop,pop,boy group,m,2021.0,2.0
-171,BLACKPINK,0,221582833,1217677,k pop,pop,girl group,fb,2020.0,3.0
-172,The Chainsmokers,1,55524219,1845061,electronic,pop,house,m,2017.0,6.0
-173,Stevie Wonder,0,70284959,3052196,soul,funk,motown,m,1962.0,61.0
-174,Aerosmith,1,92977117,3736063,rock,classic rock,hard rock,mb,1973.0,50.0
-175,Jimi Hendrix,0,103201145,3447153,classic rock,rock,blues,m,1967.0,56.0
-176,The Offspring,0,156556290,3629971,punk rock,punk,rock,mb,1989.0,34.0
-177,The walters,0,16358114,951622,indie rock,indie,indie pop,mb,2014.0,9.0
-178,Kings of Leon,0,197039844,4173583,rock,indie,indie rock,mb,2003.0,20.0
-179,Clairo,0,112246368,1628836,dream pop,bedroom pop,indie pop,f,2019.0,4.0
-180,LIL UZI VERT,0,225628470,1711961,trap,hip hop,rap,m,2017.0,6.0
-181,Sade,0,52084098,1989477,soul,jazz,chillout,f,1984.0,39.0
-182,Cults,0,30940883,1573823,indie pop,lo fi,experimental,mfb,2011.0,12.0
-183,Britney Spears,0,295888553,4716524,pop,dance,britney spears,f,1999.0,24.0
-184,Paul McCartney,1,52684495,2449067,classic rock,rock,british,m,1970.0,53.0
-185,xxxtentacion,0,180641582,1764023,hip hop,rap,cloud rap,m,2017.0,6.0
-186,Earl Sweatshirt,0,94412968,1124686,hip hop,rap,underground hip hop,m,2013.0,10.0
-187,Bryson Tiller,0,40958713,935577,rnb,hip hop,trap,m,2015.0,8.0
-188,My Bloody Valentine,0,84942346,1521126,shoegaze,dream pop,indie,mfb,1988.0,35.0
-189,Frank Sinatra,0,105822505,3521421,jazz,swing,oldies,m,1946.0,77.0
-190,21 Savage,0,103015945,1310659,trap,hip hop,rap,m,2017.0,6.0
-191,Black Eyed Peas,0,103968896,4650746,hip hop,pop,rnb,mfb,1998.0,25.0
-192,Fall Out Boy,1,242230681,3847141,pop punk,rock,emo,mb,2003.0,20.0
-193,Blur,0,132028329,3757625,rock,indie,alternative,mb,1991.0,32.0
-194,The Lumineers,0,59524347,1957358,folk,indie,folk rock,mfb,2012.0,11.0
-195,DJ Khaled,0,40347429,2200724,hip hop,rap,djs,m,2006.0,17.0
-196,The White Stripes,0,153873874,3882115,rock,alternative,alternative rock,mfb,1999.0,24.0
-197,Slipknot,0,214093007,3158345,nu metal,metal,heavy metal,mb,1999.0,24.0
-198,yeat,0,150981761,771058,trap,rap,cloud rap,m,2021.0,2.0
-199,(G)I-DLE,1,62984155,653506,k pop,pop,girl group,fb,2022.0,1.0
-200,Duster,0,61884014,861209,space rock,shoegaze,indie rock,mb,1998.0,25.0
-201,Juice WRLD,1,292918434,1555033,emo rap,hip hop,rap,m,2018.0,5.0
-202,Current Joys,1,27134780,906395,indie,indie rock,indie pop,m,2013.0,10.0
-203,DJ Snake,1,29060527,1622690,trap,electronic,dance,m,2016.0,7.0
-204,The Smashing Pumpkins,0,185461435,3735110,alternative rock,rock,alternative,mb,1991.0,32.0
-205,Daft Punk,0,289378083,5019064,electronic,house,dance,mb,1997.0,26.0
-206,Shawn Mendes,0,89571587,1815069,pop,folk,acoustic,m,2015.0,8.0
-207,Evanescence,0,130748696,3125038,rock,gothic rock,gothic,mfb,2003.0,20.0
-208,Daniel Caesar,1,74312017,1291496,rnb,soul,neo soul,m,2017.0,6.0
-209,Olivia Rodrigo,1,234477137,1866162,pop,pop rock,rock,f,2021.0,2.0
-210,PARTYNEXTDOOR,0,41599425,1094835,rnb,soul,hip hop,m,2014.0,9.0
-211,2Pac,0,96308963,3186835,rap,hip hop,gangsta rap,m,1991.0,32.0
-212,The Killers,1,271097844,5572990,indie,rock,indie rock,mb,2004.0,19.0
-213,Pearl Jam,0,183953906,3396225,grunge,rock,alternative rock,mb,1991.0,32.0
-214,Thundercat,0,44973698,1319484,funk,electronic,jazz,m,2011.0,12.0
-215,Tame Impala,0,220703767,2803502,psychedelic rock,psychedelic,indie rock,m,2010.0,13.0
-216,BTS,0,1866639416,1519594,k pop,pop,bts,mb,2014.0,9.0
-217,Ellie Goulding,0,114149375,2937750,electronic,british,indie,f,2010.0,13.0
-218,Post Malone,1,195587466,2371092,hip hop,rap,trap,m,2016.0,7.0
-219,Shakira,0,113363596,3610071,pop,latin,rock,f,1991.0,32.0
-220,Panic! at the Disco,0,195018282,3438199,rock,alternative,emo,mb,2005.0,18.0
-221,Lady Gaga,0,524023897,5580344,pop,dance,electronic,f,2008.0,15.0
-222,Tom Odell,0,28256015,1357035,indie,folk,british,m,2013.0,10.0
-223,Led Zeppelin,0,245827280,3865827,classic rock,rock,hard rock,mb,1969.0,54.0
-224,OutKast,0,92906110,3725471,hip hop,rap,funk,mb,1994.0,29.0
-225,Cage the Elephant,0,86708265,2413306,indie rock,alternative,rock,mb,2008.0,15.0
-226,Dean Martin,0,26989837,2047721,jazz,swing,oldies,m,1953.0,70.0
-227,Beach House,0,154471127,2400916,dream pop,indie pop,indie,mfb,2006.0,17.0
-228,Chief Keef,0,61204285,1012118,hip hop,rap,drill,m,2012.0,11.0
-229,Nas,0,92888365,2732037,hip hop,rap,east coast rap,m,1994.0,29.0
-230,Oasis,0,200732714,4552807,rock,british,alternative,mb,1994.0,29.0
-231,Jid,0,51340862,766499,rap,hip hop,conscious hip hop,m,2017.0,6.0
-232,Two Door Cinema Club,1,93136482,2434090,indie,electronic,british,mb,2010.0,13.0
-233,Björk,1,177649704,2812575,electronic,alternative,experimental,f,1993.0,30.0
-234,Travis Scott,0,251558729,1774598,hip hop,rap,trap,m,2015.0,8.0
-235,Kesha,0,30257774,1251256,pop,dance,electropop,f,2010.0,13.0
-236,Adele,1,218996902,4323326,soul,british,singer songwriter,f,2008.0,15.0
-237,David Guetta,1,133808306,4111180,house,dance,electronic,m,2002.0,21.0
-238,Selena Gomez,0,134282557,2140470,pop,disney,pop rock,f,2009.0,14.0
-239,The Cardigans,0,50167071,2420595,pop,rock,swedish,mfb,1994.0,29.0
-240,MGMT,0,145924274,3992905,electronic,indie,psychedelic,mb,2007.0,16.0
-241,MF DOOM,0,92896594,1498736,hip hop,underground hip hop,rap,m,1999.0,24.0
-242,Salvia Palth,0,20274005,797302,lo fi,shoegaze,dream pop,m,2013.0,10.0
-243,The Neighbourhood,0,192662232,2523727,indie,indie rock,indie pop,mb,2013.0,10.0
-244,Playboi Carti,1,324306113,1393306,trap,hip hop,rap,m,2018.0,5.0
-245,R.E.M.,0,120396714,3591488,rock,alternative rock,alternative,mb,1983.0,40.0
-246,The Cranberries,0,87158452,3249989,rock,alternative,alternative rock,mfb,1993.0,30.0
-247,Bee Gees,0,43469162,2507647,disco,pop,70s,mb,1965.0,58.0
-248,Bad Bunny,1,150471000,1200145,reggaeton,latin,trap,m,2018.0,5.0
-249,Justin Bieber,0,160423989,3269010,pop,justin bieber,rnb,m,2010.0,13.0
-250,Summer Walker,0,54240601,1061860,rnb,soul,neo soul,f,2019.0,4.0
-251,Zayn,0,70675542,1493696,pop,rnb,british,m,2016.0,7.0
-252,Limp Bizkit,1,101919719,2968509,nu metal,rapcore,rock,mb,1997.0,26.0
-253,Demi Lovato,0,132358381,2399010,pop,pop rock,disney,f,2008.0,15.0
-254,Imagine Dragons,0,171354670,3039667,indie,indie rock,alternative,mb,2012.0,11.0
-255,OneRepublic,1,98820939,3441656,rock,pop rock,alternative,mb,2007.0,16.0
-256,Pink Floyd,0,433787785,4231076,progressive rock,classic rock,psychedelic rock,mb,1967.0,56.0
-257,Kenya Grace,1,4121529,398668,rnb,indie,soul,f,2019.0,4.0
-258,Fiona Apple,0,97040879,2040975,singer songwriter,alternative,piano,f,1996.0,27.0
-259,Cocteau Twins,0,82221493,1456897,dream pop,shoegaze,post punk,mfb,1982.0,41.0
-260,Willow,0,44032369,1419401,post rock,pop,rnb,f,2015.0,8.0
-261,Faye Webster,1,37829341,845679,indie,singer songwriter,indie folk,f,2013.0,10.0
-262,Jay-Z,0,162170749,4636803,hip hop,rap,east coast rap,m,1996.0,27.0
-263,Sam Smith,0,81441799,2295991,soul,pop,british,m,2014.0,9.0
-264,NLE Choppa,1,26131794,761845,trap,hip hop,rap,m,2020.0,3.0
-265,Mariah Carey,1,157261378,3701240,pop,rnb,soul,f,1990.0,33.0
-266,Sabrina Carpenter,1,76431718,1131396,pop,indie pop,alternative,f,2015.0,8.0
-267,Dave,1,38585931,745824,rap,grime,french,m,2019.0,4.0
-268,Strawberry Guy,1,14185527,744041,dream pop,indie pop,shoegaze,m,2021.0,2.0
-269,Trippie Redd,0,111464373,1179968,trap,hip hop,rap,m,2018.0,5.0
-270,Bon Jovi,0,85590576,3204654,rock,hard rock,classic rock,mb,1984.0,39.0
-271,A$AP Rocky,0,165019434,2200862,hip hop,rap,underground hip hop,m,2013.0,10.0
-272,Ice Cube,1,39323531,2372511,rap,hip hop,gangsta rap,m,1990.0,33.0
-273,Dominic Fike,1,54540915,1248699,indie,alternative,indie pop,m,2020.0,3.0
-274,Yot Club,0,15318310,805973,lo fi,indie,dream pop,m,2022.0,1.0
-275,Rex Orange County,0,78622279,1370633,indie pop,rnb,jazz,m,2017.0,6.0
-276,Elliott Smith,0,171947844,2301560,singer songwriter,indie,folk,m,1994.0,29.0
-277,Alice in Chains,0,125101609,2553702,grunge,rock,alternative rock,mb,1990.0,33.0
-278,Avril Lavigne,0,173829617,3782540,pop,pop rock,rock,f,2002.0,21.0
-279,Marina,0,93512019,1313743,pop,indie pop,post hardcore,f,2010.0,13.0
-280,My Chemical Romance,0,264909324,3522394,rock,emo,alternative,mb,2002.0,21.0
-281,P!nk,1,100513292,3429951,pop,pop rock,rock,f,2000.0,23.0
-282,Eagles,0,54260159,2912166,classic rock,rock,70s,mb,1972.0,51.0
-283,Radiohead,0,784481025,6279017,alternative,alternative rock,rock,mb,1993.0,30.0
-284,League of Legends,0,29796014,730112,soundtrack,game music,video game music,nab,3000.0,-977.0
-285,Taylor Swift,1,1884917449,4359692,country,pop,singer songwriter,f,2006.0,17.0
-286,The Beach Boys,0,111142747,3315595,classic rock,60s,pop,mb,1962.0,61.0
-287,bôa,0,27246816,879589,alternative,alternative rock,rock,f,2000.0,23.0
-288,ScHoolboy Q,0,47012401,1381867,hip hop,rap,underground hip hop,m,2011.0,12.0
-289,Pixies,0,155552948,3363352,alternative,indie,rock,mfb,1988.0,35.0
-290,Gracie Abrams,1,55383397,661737,pop,indie pop,indie,f,2023.0,0.0
-291,Kate Bush,0,88610008,2338156,singer songwriter,pop,alternative,f,1978.0,45.0
-292,Twenty One Pilots,0,165253361,2073100,electronic,alternative,indie,mb,2009.0,14.0
-293,Cavetown,1,46179043,973470,indie,pop,bedroom pop,m,2015.0,8.0
-294,Gunna,0,75871221,1008259,trap,rap,hip hop,m,2019.0,4.0
-295,Matt Maltese,1,24582557,928130,pop,indie,singer songwriter,m,2018.0,5.0
-296,Baby Keem,0,110897796,1203010,hip hop,rap,trap,m,2021.0,2.0
-297,J. Cole,1,166653381,2888430,hip hop,rap,underground hip hop,m,2011.0,12.0
-298,Grimes,0,135488559,1845056,electronic,dream pop,experimental,f,2010.0,13.0
-299,Wallows,0,58322751,1247760,indie,indie rock,rock,mb,2019.0,4.0
-300,Billy Joel,1,67248807,2808925,classic rock,singer songwriter,rock,m,1971.0,52.0
-301,Rae Sremmurd,0,26993153,1220287,hip hop,rap,trap,mb,2015.0,8.0
-302,Tate McRae,0,33790616,970246,pop,alberta,electronic,f,2022.0,1.0
-303,Fifty Fifty,0,19895685,823244,k pop,pop,girl group,fb,2022.0,1.0
-304,omar apollo,0,34600218,943371,rnb,soul,indie,m,2022.0,1.0
-305,Justin Timberlake,0,101675038,3969415,pop,rnb,dance,m,2002.0,21.0
-306,Mother Mother,1,52423785,1167006,indie,indie pop,experimental,mfb,2007.0,16.0
-307,Harry Styles,0,267141629,2177252,pop,rock,pop rock,m,2017.0,6.0
-308,Korn,0,187414144,3242678,nu metal,metal,alternative,mb,1994.0,29.0
-309,Beach Bunny,0,22791000,891725,indie rock,indie pop,indie,mfb,2020.0,3.0
-310,JVKE,0,20946394,857450,indie pop,usa,christian,m,2022.0,1.0
-311,Green Day,0,268514990,4993269,punk rock,rock,punk,mb,1990.0,33.0
-312,Avicii,0,79066061,2523368,house,electronic,dance,m,2013.0,10.0
-313,Fleetwood Mac,0,153234780,3469436,classic rock,rock,70s,mfb,1968.0,55.0
-314,TOMORROW X TOGETHER,1,232801477,728336,k pop,pop,txt,mb,2019.0,4.0
-315,Noah Kahan,1,41014400,677931,indie,folk,acoustic,m,2019.0,4.0
-316,Bruno Mars,0,153729758,3632142,pop,rnb,male vocalists,m,2010.0,13.0
-317,Rihanna,0,349310641,6444151,pop,rnb,dance,f,2005.0,18.0
-318,Red Hot Chili Peppers,1,395523003,5800493,rock,alternative rock,alternative,mb,1984.0,39.0
-319,ICE SPICE,0,22577700,794209,rap,drill,hip hop,f,2023.0,0.0
-320,Vance Joy,0,32205235,1655777,folk,indie,singer songwriter,m,2014.0,9.0
-321,The Rolling Stones,0,207981746,4821010,classic rock,rock,british,mb,1964.0,59.0
-322,Lil Tecca,0,49712200,890686,hip hop,rap,trap,m,2020.0,3.0
-323,Usher,1,58478292,3702282,rnb,hip hop,pop,m,1994.0,29.0
-324,Weezer,1,179277292,4122686,rock,alternative,alternative rock,mb,1994.0,29.0
-325,5 Seconds of Summer,0,120488995,1485562,pop rock,pop punk,rock,mb,2014.0,9.0
-326,Billie Eilish,0,313608331,2548279,pop,indie pop,electropop,f,2019.0,4.0
-327,Vansire,0,16625052,944605,dream pop,indie pop,indie,mb,2016.0,7.0
-328,Brenda Lee,0,9261856,1393296,oldies,60s,country,f,1959.0,64.0
-329,Måneskin,1,53848457,1129302,rock,glam rock,italian,mfb,2018.0,5.0
-330,Maroon 5,0,178459997,5024992,rock,pop,pop rock,mb,2002.0,21.0
-331,Madonna,1,227942160,4215241,pop,dance,80s,f,1983.0,40.0
-332,Flo Rida,1,47715994,3097059,hip hop,rap,southern rap,m,2008.0,15.0
-333,Marvin Gaye,0,54355707,2760027,soul,motown,funk,m,1961.0,62.0
-334,The Velvet Underground,0,93848528,2625254,rock,classic rock,psychedelic,mfb,1967.0,56.0
-335,Lorde,0,239196100,2646019,pop,indie pop,electronic,f,2013.0,10.0
-336,50 Cent,1,68549028,3676268,rap,hip hop,gangsta rap,m,2003.0,20.0
-337,TV Girl,1,88966131,1388754,indie pop,lo fi,indie,mb,2014.0,9.0
-338,The Alchemist,0,22828321,897015,hip hop,rap,producer,m,2004.0,19.0
-339,Deftones,0,252879073,2789174,nu metal,metal,alternative,mb,1995.0,28.0
-340,Future,0,177789857,1929532,hip hop,rap,trap,m,2012.0,11.0
-341,New Order,0,83116187,2505526,new wave,electronic,post punk,mb,1977.0,46.0
-342,NewJeans,1,129667795,885489,k pop,rnb,pop,fb,2022.0,1.0
-343,Frank Ocean,1,404409989,2888623,rnb,soul,hip hop,m,2012.0,11.0
+name,ontour,playcount,listeners,genre1,genre2,genre3,sex,first_album,age (since 1st album)
+Pierce The Veil,0,81849436,1131032,post hardcore,emocore,emo,mb,2007.0,16.0
+Ed Sheeran,1,179979468,3125873,acoustic,british,singer songwriter,m,2011.0,12.0
+Nicki Minaj,1,183090599,3609036,hip hop,rap,rnb,f,2010.0,13.0
+Muse,0,418280263,5015125,alternative rock,rock,alternative,mb,1999.0,24.0
+Black Sabbath,0,142624552,3322344,heavy metal,hard rock,classic rock,mb,1970.0,53.0
+aespa,1,82200071,615862,k pop,pop,hyperpop,fb,2021.0,2.0
+Depeche Mode,1,219136579,3478486,electronic,new wave,80s,mb,1981.0,42.0
+Elton John,0,105311040,3960105,pop,classic rock,singer songwriter,m,1969.0,54.0
+ABBA,1,105248686,2999234,pop,disco,70s,mfb,1973.0,50.0
+Big Thief,0,44149583,770055,indie rock,folk,indie folk,mfb,2016.0,7.0
+Gwen Stefani,1,52033052,3193923,pop,dance,rock,f,2004.0,19.0
+Laufey,1,39011152,714538,jazz,pop,soul,f,2022.0,1.0
+Young Thug,0,99877669,1230730,trap,hip hop,rap,m,2019.0,4.0
+Amy Winehouse,0,132703596,3449363,soul,jazz,british,f,2003.0,20.0
+Miguel,1,41001567,1806385,rnb,soul,hip hop,m,2010.0,13.0
+Arctic Monkeys,0,590519619,5351983,indie rock,indie,british,mb,2006.0,17.0
+The Weeknd,0,561111265,3622518,rnb,electronic,dubstep,m,2013.0,10.0
+Nirvana,0,357002993,5808751,grunge,rock,alternative,mb,1989.0,34.0
+System of a Down,0,313341185,4449587,metal,alternative metal,rock,mb,1998.0,25.0
+Nelly Furtado,0,68359672,3402839,pop,folk,singer songwriter,f,2000.0,23.0
+Drake,1,585984507,5271101,hip hop,rap,rnb,m,2010.0,13.0
+Glass Animals,0,78441487,1760248,electronic,trip hop,british,mb,2014.0,9.0
+Kylie Minogue,1,117598683,2684649,pop,dance,electronic,f,1988.0,35.0
+The Strokes,0,298306959,4459850,indie rock,rock,indie,mb,2001.0,22.0
+Metallica,0,375554594,3910517,thrash metal,metal,heavy metal,mb,1983.0,40.0
+Aminé,0,43979981,1080343,rap,hip hop,trap,m,2017.0,6.0
+Lana Del Rey,0,800159312,3757731,indie,indie pop,pop,f,2010.0,13.0
+Kelly Clarkson,0,87991147,3354748,pop,pop rock,rock,f,2003.0,20.0
+Michael Jackson,0,204111172,5046989,pop,80s,dance,m,1972.0,51.0
+Zach Bryan,1,31333757,468063,country,americana,singer songwriter,m,2019.0,4.0
+Snoop Dogg,0,58619042,3477215,hip hop,rap,gangsta rap,m,1993.0,30.0
+BROCKHAMPTON,0,147132525,1225380,hip hop,rap,pop rap,mb,2017.0,6.0
+Lil Baby,0,87543405,991768,hip hop,rap,trap,m,2018.0,5.0
+VACATIONS,1,25643220,946936,indie,dream pop,indie rock,mb,2018.0,5.0
+Hozier,1,107696165,2093294,blues,indie,soul,m,2014.0,9.0
+Wham!,0,23164876,2224127,80s,pop,british,mb,1983.0,40.0
+Ariana Grande,0,482542727,2932667,pop,rnb,ariana grande,f,2013.0,10.0
+Cardi B,1,46216748,1541688,hip hop,rap,trap,f,2018.0,5.0
+Suki Waterhouse,1,12832400,712763,electronic,indie pop,pop,f,2022.0,1.0
+Camila Cabello,0,71130189,1376742,pop,cuba,cuban,f,2018.0,5.0
+Tory Lanez,0,55619530,1136364,rnb,hip hop,rap,m,2016.0,7.0
+One Direction,0,178163137,2263762,pop,british,boyband,mb,2011.0,12.0
+Surf Curse,0,21598429,1017983,lo fi,surf,garage rock,mb,2013.0,10.0
+The 1975,1,176306097,1893257,indie,indie rock,british,mb,2013.0,10.0
+Jeff Buckley,0,62880395,2155560,singer songwriter,rock,alternative,m,1994.0,29.0
+a-ha,0,41452109,2460139,80s,pop,new wave,mb,1983.0,40.0
+Bon Iver,0,172381011,2808901,folk,indie,singer songwriter,mfb,2007.0,16.0
+Katy Perry,0,265976829,5406637,pop,pop rock,indie,f,2001.0,22.0
+The Doors,0,169881340,3903565,classic rock,psychedelic rock,rock,mb,1967.0,56.0
+Cigarettes After Sex,0,107554366,1565437,dream pop,shoegaze,lo fi,mfb,2017.0,6.0
+Madvillain,0,75662650,1406586,hip hop,underground hip hop,rap,mb,2004.0,19.0
+Lil Wayne,0,39840909,1216021,rap,hip hop,gangsta rap,m,1999.0,24.0
+d4vd,1,27780302,969312,pop,rock,rnb,m,2023.0,0.0
+Sia,0,122477518,3287697,chillout,indie,trip hop,f,1997.0,26.0
+Pinegrove,0,20898323,583557,indie rock,alt country,indie,mfb,2012.0,11.0
+Gucci Mane,0,39565707,2065701,hip hop,rap,trap,m,2005.0,18.0
+Timbaland,0,41314995,2649880,hip hop,rnb,rap,m,1998.0,25.0
+Joji,0,203101307,1897038,lo fi,rnb,hip hop,m,2018.0,5.0
+Pitbull,1,58290687,3130613,hip hop,rap,reggaeton,m,2004.0,19.0
+David Bowie,0,286569515,4425264,rock,glam rock,classic rock,m,1967.0,56.0
+Eminem,0,372779519,6220579,rap,hip hop,pop,m,1996.0,27.0
+Steve Lacy,1,134084517,1800139,jazz,free jazz,saxophone,m,2019.0,4.0
+Lil Nas X,0,88177700,1885911,hip hop,rap,country rap,m,2021.0,2.0
+Troye Sivan,0,92223546,1610002,pop,indie pop,male vocalists,m,2015.0,8.0
+Car Seat Headrest,0,91321524,882341,lo fi,indie,indie rock,mfb,2010.0,13.0
+Red Velvet,1,140001663,841109,k pop,pop,na,fb,2015.0,8.0
+Mitski,1,290576137,1772816,indie rock,indie,indie pop,f,2012.0,11.0
+The Kid Laroi,0,74432430,1327248,rap,hip hop,emo rap,m,2023.0,0.0
+SZA,1,261573748,2179599,rnb,soul,electronic,f,2017.0,6.0
+Mac DeMarco,0,164583033,1958513,lo fi,indie,experimental,m,2012.0,11.0
+Calvin Harris,0,132952089,3702762,electronic,dance,electro,m,2007.0,16.0
+Joy Division,0,137880125,2709035,post punk,new wave,80s,mb,1979.0,44.0
+Phoebe Bridgers,0,160874473,1336664,singer songwriter,folk,indie folk,f,2017.0,6.0
+Gorillaz,0,315472165,5164053,alternative,electronic,hip hop,mfb,2001.0,22.0
+Migos,0,45045049,1287950,hip hop,trap,rap,mb,2015.0,8.0
+Lizzy McAlpine,1,32020579,698419,indie pop,acoustic,indie folk,f,2020.0,3.0
+Dr. Dre,0,63652853,3227597,hip hop,rap,gangsta rap,m,1992.0,31.0
+Linkin Park,0,408756724,5161460,rock,nu metal,alternative rock,mb,2000.0,23.0
+Marshmello,1,40130991,1686531,electronic,dance,trap,m,2016.0,7.0
+$uicideboy$,1,208102134,956220,cloud rap,hip hop,trap,mb,2018.0,5.0
+Tears for Fears,0,51941227,2687034,new wave,80s,pop,mb,1983.0,40.0
+The Smiths,0,298535289,3564563,indie,80s,post punk,mb,1984.0,39.0
+Kali Uchis,0,140576106,1808824,rnb,neo soul,soul,f,2018.0,5.0
+Rosalía,0,103763160,1141254,pop,flamenco,spain,f,2017.0,6.0
+Coldplay,1,543775070,7172542,rock,alternative,alternative rock,mb,2000.0,23.0
+Jack Harlow,0,48949415,1174668,rap,hip hop,trap,m,2020.0,3.0
+Mac Miller,0,241766629,2451390,hip hop,rap,underground hip hop,m,2011.0,12.0
+Kodak Black,1,56780086,1111291,trap,hip hop,rap,m,2017.0,6.0
+Queens of the Stone Age,1,186194912,3057719,stoner rock,rock,alternative rock,mfb,1998.0,25.0
+Michael Bublé,0,69633707,2688463,jazz,swing,easy listening,m,2001.0,22.0
+Ken Carson,1,62119704,443771,trap,cloud rap,rap,m,2021.0,2.0
+Slowdive,1,78485773,1314540,shoegaze,dream pop,ambient,mfb,1991.0,32.0
+Girl In Red,0,58752778,1445734,indie,dream pop,lo fi,f,2021.0,2.0
+Pop Smoke,0,93535415,1085102,drill,rap,trap,m,2020.0,3.0
+Talking Heads,0,90713580,2431485,new wave,post punk,80s,mfb,1977.0,46.0
+Denzel Curry,0,86829834,1017370,hip hop,rap,trap,m,2013.0,10.0
+The Cure,1,252765202,4107244,post punk,new wave,alternative,mb,1979.0,44.0
+Elvis Presley,0,104785424,3354339,rock n roll,classic rock,rock,m,1956.0,67.0
+TWICE,1,264242003,987539,k pop,pop,girl group,fb,2017.0,6.0
+Blondie,0,48417015,2523202,new wave,80s,rock,mfb,1976.0,47.0
+Paramore,1,328244792,3979972,rock,pop punk,alternative,mfb,2005.0,18.0
+Crystal Castles,0,148329738,2252070,electronic,8 bit,new rave,mfb,2008.0,15.0
+pinkpantheress,0,87796385,1534698,rnb,electronic,pop,f,2023.0,0.0
+beabadoobee,0,83838616,1266788,indie pop,bedroom pop,indie,f,2020.0,3.0
+Miley Cyrus,0,200165443,3646556,pop,disney,dance,f,2007.0,16.0
+JPEGMAFIA,0,114363268,771808,hip hop,glitch hop,experimental hip hop,m,2016.0,7.0
+Isaiah Rashad,0,47086609,798773,hip hop,rap,underground hip hop,m,2014.0,9.0
+Kid Cudi,0,192770252,3748223,hip hop,rap,alternative rap,m,2009.0,14.0
+Halsey,0,138276624,1845566,pop,indie pop,indie,f,2015.0,8.0
+Tove Lo,0,84911072,1685551,pop,swedish,electronic,f,2014.0,9.0
+Billy Idol,0,30836200,1991487,rock,80s,new wave,m,1982.0,41.0
+Offset,0,19037653,859521,trap,hip hop,rap,m,2019.0,4.0
+Chris Brown,0,88986792,3711876,rnb,hip hop,chris brown,m,2005.0,18.0
+Carly Rae Jepsen,1,106115545,2077116,pop,folk,acoustic,f,2008.0,15.0
+Guns N' Roses,0,150676852,4151138,hard rock,rock,classic rock,mfb,1987.0,36.0
+The Marías,0,30739670,888375,indie,indie pop,dream pop,mfb,2021.0,2.0
+Sufjan Stevens,0,204033450,2952305,indie,folk,singer songwriter,m,2000.0,23.0
+blink-182,1,243890787,3898515,punk rock,pop punk,punk,mb,1995.0,28.0
+Lil Yachty,1,61109583,1101159,trap,hip hop,rap,m,2017.0,6.0
+LE SSERAFIM,1,76282529,601461,k pop,pop,na,fb,2023.0,0.0
+Don Toliver,1,64228661,1173829,rap,trap,hip hop,m,2020.0,3.0
+Childish Gambino,0,172204010,2509443,hip hop,rap,indie,m,2011.0,12.0
+Beyoncé,0,385559320,5198753,rnb,pop,soul,f,2003.0,20.0
+Hotel Ugly,0,17394411,876131,indie,alternative,usa,m,2023.0,0.0
+Men I Trust,0,53471906,1238002,dream pop,indie,indie pop,mfb,2014.0,9.0
+Conan Gray,0,106006879,1440665,indie,pop,indie pop,m,2020.0,3.0
+Alex G,1,89151931,1049617,lo fi,singer songwriter,indie rock,m,2010.0,13.0
+Bring Me the Horizon,1,179019269,1985282,deathcore,metalcore,hardcore,mb,2006.0,17.0
+Queen,0,295329331,5618667,classic rock,rock,80s,mb,1973.0,50.0
+Aaron May,0,12415135,561761,rap,na,na,m,2019.0,4.0
+Charli XCX,0,183417997,1973435,pop,synthpop,electronic,f,2013.0,10.0
+ROAR,0,17602488,806182,indie pop,arizona,indie,m,2016.0,7.0
+Chase Atlantic,0,72288687,960539,rnb,indie,rock,mb,2017.0,6.0
+Metro Boomin,1,115601933,1476293,trap,hip hop,rap,m,2018.0,5.0
+M83,0,110054633,2778148,electronic,shoegaze,post rock,mfb,2001.0,22.0
+Eyedress,1,27450399,1112672,electronic,experimental,indie,m,2017.0,6.0
+Foo Fighters,1,260867870,5097329,rock,alternative rock,grunge,mb,1995.0,28.0
+Joey Bada$$,0,67617951,1178342,hip hop,rap,underground hip hop,m,2015.0,8.0
+Ive,0,68639426,562875,k pop,pop,na,fb,2023.0,0.0
+Dua Lipa,0,183632137,2213580,pop,electropop,synthpop,f,2017.0,6.0
+SKI MASK THE SLUMP GOD,0,40552116,859086,hip hop,trap,rap,m,2018.0,5.0
+The Goo Goo Dolls,0,10935772,821197,rock,alternative rock,alternative,mb,1987.0,36.0
+Mazzy Star,0,48233320,1620967,dream pop,indie,shoegaze,mfb,1990.0,33.0
+"Tyler, the Creator",0,449879030,2612923,hip hop,rap,underground hip hop,m,2011.0,12.0
+The Police,0,68154413,3219614,rock,classic rock,80s,mb,1978.0,45.0
+STRAY KIDS,0,204525147,652028,k pop,pop,hip hop,mb,2020.0,3.0
+Brent Faiyaz,1,91145980,1153978,rnb,soul,electronic,m,2017.0,6.0
+Labrinth,0,47997429,1824443,electronic,british,rnb,m,2012.0,11.0
+Melanie Martinez,1,131732491,1463636,pop,indie,indie pop,f,2015.0,8.0
+Megan Thee Stallion,0,74510557,1294954,rap,hip hop,trap,f,2020.0,3.0
+AC/DC,0,173083027,3640793,hard rock,classic rock,rock,mb,1975.0,48.0
+Boygenius,0,42572505,576768,indie,indie rock,indie folk,fb,2023.0,0.0
+Lord Huron,1,33595517,1360937,folk,indie,psychedelic,mfb,2012.0,11.0
+Tiësto,1,65634675,2534050,trance,electronic,dance,m,2001.0,22.0
+A BOOGIE WIT DA HOODIE,0,56635224,917905,hip hop,rap,american,m,2017.0,6.0
+Aphex Twin,0,137528602,2245291,electronic,ambient,experimental,m,1992.0,31.0
+Doja Cat,1,248759033,2275554,pop,rnb,rap,f,2018.0,5.0
+Charlie Puth,0,92510008,1544789,pop,rnb,soul,m,2016.0,7.0
+Ghost,0,84078259,1064020,heavy metal,psychedelic rock,doom metal,mb,2010.0,13.0
+Creedence Clearwater Revival,0,85235806,3175577,classic rock,rock,southern rock,mb,1968.0,55.0
+Jung Kook,0,247876733,656578,pop,k pop,bts,m,2023.0,0.0
+LUCKI,0,104190202,568471,trap,hip hop,rap,m,2019.0,4.0
+Foster the People,0,86042314,2781386,indie,indie pop,alternative,mb,2011.0,12.0
+The Beatles,0,730752557,5079780,classic rock,rock,british,mb,1963.0,60.0
+LIL PEEP,0,170048154,1269350,cloud rap,emo rap,hip hop,m,2017.0,6.0
+Kendrick Lamar,1,446291037,3303503,hip hop,rap,west coast,m,2011.0,12.0
+John Lennon,0,56033709,3065660,classic rock,rock,singer songwriter,m,1970.0,53.0
+Kanye West,0,879809322,6316432,hip hop,rap,rnb,m,2004.0,19.0
+Tyla,0,2506482,320312,rock,pop,british,f,2023.0,0.0
+Khalid,1,59822637,1566295,rnb,pop,soul,m,2017.0,6.0
+ENHYPEN,1,100176208,556212,k pop,pop,boy group,m,2021.0,2.0
+BLACKPINK,0,221582833,1217677,k pop,pop,girl group,fb,2020.0,3.0
+The Chainsmokers,1,55524219,1845061,electronic,pop,house,m,2017.0,6.0
+Stevie Wonder,0,70284959,3052196,soul,funk,motown,m,1962.0,61.0
+Aerosmith,1,92977117,3736063,rock,classic rock,hard rock,mb,1973.0,50.0
+Jimi Hendrix,0,103201145,3447153,classic rock,rock,blues,m,1967.0,56.0
+The Offspring,0,156556290,3629971,punk rock,punk,rock,mb,1989.0,34.0
+The walters,0,16358114,951622,indie rock,indie,indie pop,mb,2014.0,9.0
+Kings of Leon,0,197039844,4173583,rock,indie,indie rock,mb,2003.0,20.0
+Clairo,0,112246368,1628836,dream pop,bedroom pop,indie pop,f,2019.0,4.0
+LIL UZI VERT,0,225628470,1711961,trap,hip hop,rap,m,2017.0,6.0
+Sade,0,52084098,1989477,soul,jazz,chillout,f,1984.0,39.0
+Cults,0,30940883,1573823,indie pop,lo fi,experimental,mfb,2011.0,12.0
+Britney Spears,0,295888553,4716524,pop,dance,britney spears,f,1999.0,24.0
+Paul McCartney,1,52684495,2449067,classic rock,rock,british,m,1970.0,53.0
+xxxtentacion,0,180641582,1764023,hip hop,rap,cloud rap,m,2017.0,6.0
+Earl Sweatshirt,0,94412968,1124686,hip hop,rap,underground hip hop,m,2013.0,10.0
+Bryson Tiller,0,40958713,935577,rnb,hip hop,trap,m,2015.0,8.0
+My Bloody Valentine,0,84942346,1521126,shoegaze,dream pop,indie,mfb,1988.0,35.0
+Frank Sinatra,0,105822505,3521421,jazz,swing,oldies,m,1946.0,77.0
+21 Savage,0,103015945,1310659,trap,hip hop,rap,m,2017.0,6.0
+Black Eyed Peas,0,103968896,4650746,hip hop,pop,rnb,mfb,1998.0,25.0
+Fall Out Boy,1,242230681,3847141,pop punk,rock,emo,mb,2003.0,20.0
+Blur,0,132028329,3757625,rock,indie,alternative,mb,1991.0,32.0
+The Lumineers,0,59524347,1957358,folk,indie,folk rock,mfb,2012.0,11.0
+DJ Khaled,0,40347429,2200724,hip hop,rap,djs,m,2006.0,17.0
+The White Stripes,0,153873874,3882115,rock,alternative,alternative rock,mfb,1999.0,24.0
+Slipknot,0,214093007,3158345,nu metal,metal,heavy metal,mb,1999.0,24.0
+yeat,0,150981761,771058,trap,rap,cloud rap,m,2021.0,2.0
+(G)I-DLE,1,62984155,653506,k pop,pop,girl group,fb,2022.0,1.0
+Duster,0,61884014,861209,space rock,shoegaze,indie rock,mb,1998.0,25.0
+Juice WRLD,1,292918434,1555033,emo rap,hip hop,rap,m,2018.0,5.0
+Current Joys,1,27134780,906395,indie,indie rock,indie pop,m,2013.0,10.0
+DJ Snake,1,29060527,1622690,trap,electronic,dance,m,2016.0,7.0
+The Smashing Pumpkins,0,185461435,3735110,alternative rock,rock,alternative,mb,1991.0,32.0
+Daft Punk,0,289378083,5019064,electronic,house,dance,mb,1997.0,26.0
+Shawn Mendes,0,89571587,1815069,pop,folk,acoustic,m,2015.0,8.0
+Evanescence,0,130748696,3125038,rock,gothic rock,gothic,mfb,2003.0,20.0
+Daniel Caesar,1,74312017,1291496,rnb,soul,neo soul,m,2017.0,6.0
+Olivia Rodrigo,1,234477137,1866162,pop,pop rock,rock,f,2021.0,2.0
+PARTYNEXTDOOR,0,41599425,1094835,rnb,soul,hip hop,m,2014.0,9.0
+2Pac,0,96308963,3186835,rap,hip hop,gangsta rap,m,1991.0,32.0
+The Killers,1,271097844,5572990,indie,rock,indie rock,mb,2004.0,19.0
+Pearl Jam,0,183953906,3396225,grunge,rock,alternative rock,mb,1991.0,32.0
+Thundercat,0,44973698,1319484,funk,electronic,jazz,m,2011.0,12.0
+Tame Impala,0,220703767,2803502,psychedelic rock,psychedelic,indie rock,m,2010.0,13.0
+BTS,0,1866639416,1519594,k pop,pop,bts,mb,2014.0,9.0
+Ellie Goulding,0,114149375,2937750,electronic,british,indie,f,2010.0,13.0
+Post Malone,1,195587466,2371092,hip hop,rap,trap,m,2016.0,7.0
+Shakira,0,113363596,3610071,pop,latin,rock,f,1991.0,32.0
+Panic! at the Disco,0,195018282,3438199,rock,alternative,emo,mb,2005.0,18.0
+Lady Gaga,0,524023897,5580344,pop,dance,electronic,f,2008.0,15.0
+Tom Odell,0,28256015,1357035,indie,folk,british,m,2013.0,10.0
+Led Zeppelin,0,245827280,3865827,classic rock,rock,hard rock,mb,1969.0,54.0
+OutKast,0,92906110,3725471,hip hop,rap,funk,mb,1994.0,29.0
+Cage the Elephant,0,86708265,2413306,indie rock,alternative,rock,mb,2008.0,15.0
+Dean Martin,0,26989837,2047721,jazz,swing,oldies,m,1953.0,70.0
+Beach House,0,154471127,2400916,dream pop,indie pop,indie,mfb,2006.0,17.0
+Chief Keef,0,61204285,1012118,hip hop,rap,drill,m,2012.0,11.0
+Nas,0,92888365,2732037,hip hop,rap,east coast rap,m,1994.0,29.0
+Oasis,0,200732714,4552807,rock,british,alternative,mb,1994.0,29.0
+Jid,0,51340862,766499,rap,hip hop,conscious hip hop,m,2017.0,6.0
+Two Door Cinema Club,1,93136482,2434090,indie,electronic,british,mb,2010.0,13.0
+Björk,1,177649704,2812575,electronic,alternative,experimental,f,1993.0,30.0
+Travis Scott,0,251558729,1774598,hip hop,rap,trap,m,2015.0,8.0
+Kesha,0,30257774,1251256,pop,dance,electropop,f,2010.0,13.0
+Adele,1,218996902,4323326,soul,british,singer songwriter,f,2008.0,15.0
+David Guetta,1,133808306,4111180,house,dance,electronic,m,2002.0,21.0
+Selena Gomez,0,134282557,2140470,pop,disney,pop rock,f,2009.0,14.0
+The Cardigans,0,50167071,2420595,pop,rock,swedish,mfb,1994.0,29.0
+MGMT,0,145924274,3992905,electronic,indie,psychedelic,mb,2007.0,16.0
+MF DOOM,0,92896594,1498736,hip hop,underground hip hop,rap,m,1999.0,24.0
+Salvia Palth,0,20274005,797302,lo fi,shoegaze,dream pop,m,2013.0,10.0
+The Neighbourhood,0,192662232,2523727,indie,indie rock,indie pop,mb,2013.0,10.0
+Playboi Carti,1,324306113,1393306,trap,hip hop,rap,m,2018.0,5.0
+R.E.M.,0,120396714,3591488,rock,alternative rock,alternative,mb,1983.0,40.0
+The Cranberries,0,87158452,3249989,rock,alternative,alternative rock,mfb,1993.0,30.0
+Bee Gees,0,43469162,2507647,disco,pop,70s,mb,1965.0,58.0
+Bad Bunny,1,150471000,1200145,reggaeton,latin,trap,m,2018.0,5.0
+Justin Bieber,0,160423989,3269010,pop,justin bieber,rnb,m,2010.0,13.0
+Summer Walker,0,54240601,1061860,rnb,soul,neo soul,f,2019.0,4.0
+Zayn,0,70675542,1493696,pop,rnb,british,m,2016.0,7.0
+Limp Bizkit,1,101919719,2968509,nu metal,rapcore,rock,mb,1997.0,26.0
+Demi Lovato,0,132358381,2399010,pop,pop rock,disney,f,2008.0,15.0
+Imagine Dragons,0,171354670,3039667,indie,indie rock,alternative,mb,2012.0,11.0
+OneRepublic,1,98820939,3441656,rock,pop rock,alternative,mb,2007.0,16.0
+Pink Floyd,0,433787785,4231076,progressive rock,classic rock,psychedelic rock,mb,1967.0,56.0
+Kenya Grace,1,4121529,398668,rnb,indie,soul,f,2019.0,4.0
+Fiona Apple,0,97040879,2040975,singer songwriter,alternative,piano,f,1996.0,27.0
+Cocteau Twins,0,82221493,1456897,dream pop,shoegaze,post punk,mfb,1982.0,41.0
+Willow,0,44032369,1419401,post rock,pop,rnb,f,2015.0,8.0
+Faye Webster,1,37829341,845679,indie,singer songwriter,indie folk,f,2013.0,10.0
+Jay-Z,0,162170749,4636803,hip hop,rap,east coast rap,m,1996.0,27.0
+Sam Smith,0,81441799,2295991,soul,pop,british,m,2014.0,9.0
+NLE Choppa,1,26131794,761845,trap,hip hop,rap,m,2020.0,3.0
+Mariah Carey,1,157261378,3701240,pop,rnb,soul,f,1990.0,33.0
+Sabrina Carpenter,1,76431718,1131396,pop,indie pop,alternative,f,2015.0,8.0
+Dave,1,38585931,745824,rap,grime,french,m,2019.0,4.0
+Strawberry Guy,1,14185527,744041,dream pop,indie pop,shoegaze,m,2021.0,2.0
+Trippie Redd,0,111464373,1179968,trap,hip hop,rap,m,2018.0,5.0
+Bon Jovi,0,85590576,3204654,rock,hard rock,classic rock,mb,1984.0,39.0
+A$AP Rocky,0,165019434,2200862,hip hop,rap,underground hip hop,m,2013.0,10.0
+Ice Cube,1,39323531,2372511,rap,hip hop,gangsta rap,m,1990.0,33.0
+Dominic Fike,1,54540915,1248699,indie,alternative,indie pop,m,2020.0,3.0
+Yot Club,0,15318310,805973,lo fi,indie,dream pop,m,2022.0,1.0
+Rex Orange County,0,78622279,1370633,indie pop,rnb,jazz,m,2017.0,6.0
+Elliott Smith,0,171947844,2301560,singer songwriter,indie,folk,m,1994.0,29.0
+Alice in Chains,0,125101609,2553702,grunge,rock,alternative rock,mb,1990.0,33.0
+Avril Lavigne,0,173829617,3782540,pop,pop rock,rock,f,2002.0,21.0
+Marina,0,93512019,1313743,pop,indie pop,post hardcore,f,2010.0,13.0
+My Chemical Romance,0,264909324,3522394,rock,emo,alternative,mb,2002.0,21.0
+P!nk,1,100513292,3429951,pop,pop rock,rock,f,2000.0,23.0
+Eagles,0,54260159,2912166,classic rock,rock,70s,mb,1972.0,51.0
+Radiohead,0,784481025,6279017,alternative,alternative rock,rock,mb,1993.0,30.0
+Taylor Swift,1,1884917449,4359692,country,pop,singer songwriter,f,2006.0,17.0
+The Beach Boys,0,111142747,3315595,classic rock,60s,pop,mb,1962.0,61.0
+bôa,0,27246816,879589,alternative,alternative rock,rock,f,2000.0,23.0
+ScHoolboy Q,0,47012401,1381867,hip hop,rap,underground hip hop,m,2011.0,12.0
+Pixies,0,155552948,3363352,alternative,indie,rock,mfb,1988.0,35.0
+Gracie Abrams,1,55383397,661737,pop,indie pop,indie,f,2023.0,0.0
+Kate Bush,0,88610008,2338156,singer songwriter,pop,alternative,f,1978.0,45.0
+Twenty One Pilots,0,165253361,2073100,electronic,alternative,indie,mb,2009.0,14.0
+Cavetown,1,46179043,973470,indie,pop,bedroom pop,m,2015.0,8.0
+Gunna,0,75871221,1008259,trap,rap,hip hop,m,2019.0,4.0
+Matt Maltese,1,24582557,928130,pop,indie,singer songwriter,m,2018.0,5.0
+Baby Keem,0,110897796,1203010,hip hop,rap,trap,m,2021.0,2.0
+J. Cole,1,166653381,2888430,hip hop,rap,underground hip hop,m,2011.0,12.0
+Grimes,0,135488559,1845056,electronic,dream pop,experimental,f,2010.0,13.0
+Wallows,0,58322751,1247760,indie,indie rock,rock,mb,2019.0,4.0
+Billy Joel,1,67248807,2808925,classic rock,singer songwriter,rock,m,1971.0,52.0
+Rae Sremmurd,0,26993153,1220287,hip hop,rap,trap,mb,2015.0,8.0
+Tate McRae,0,33790616,970246,pop,alberta,electronic,f,2022.0,1.0
+Fifty Fifty,0,19895685,823244,k pop,pop,girl group,fb,2022.0,1.0
+omar apollo,0,34600218,943371,rnb,soul,indie,m,2022.0,1.0
+Justin Timberlake,0,101675038,3969415,pop,rnb,dance,m,2002.0,21.0
+Mother Mother,1,52423785,1167006,indie,indie pop,experimental,mfb,2007.0,16.0
+Harry Styles,0,267141629,2177252,pop,rock,pop rock,m,2017.0,6.0
+Korn,0,187414144,3242678,nu metal,metal,alternative,mb,1994.0,29.0
+Beach Bunny,0,22791000,891725,indie rock,indie pop,indie,mfb,2020.0,3.0
+JVKE,0,20946394,857450,indie pop,usa,christian,m,2022.0,1.0
+Green Day,0,268514990,4993269,punk rock,rock,punk,mb,1990.0,33.0
+Avicii,0,79066061,2523368,house,electronic,dance,m,2013.0,10.0
+Fleetwood Mac,0,153234780,3469436,classic rock,rock,70s,mfb,1968.0,55.0
+TOMORROW X TOGETHER,1,232801477,728336,k pop,pop,txt,mb,2019.0,4.0
+Noah Kahan,1,41014400,677931,indie,folk,acoustic,m,2019.0,4.0
+Bruno Mars,0,153729758,3632142,pop,rnb,male vocalists,m,2010.0,13.0
+Rihanna,0,349310641,6444151,pop,rnb,dance,f,2005.0,18.0
+Red Hot Chili Peppers,1,395523003,5800493,rock,alternative rock,alternative,mb,1984.0,39.0
+ICE SPICE,0,22577700,794209,rap,drill,hip hop,f,2023.0,0.0
+Vance Joy,0,32205235,1655777,folk,indie,singer songwriter,m,2014.0,9.0
+The Rolling Stones,0,207981746,4821010,classic rock,rock,british,mb,1964.0,59.0
+Lil Tecca,0,49712200,890686,hip hop,rap,trap,m,2020.0,3.0
+Usher,1,58478292,3702282,rnb,hip hop,pop,m,1994.0,29.0
+Weezer,1,179277292,4122686,rock,alternative,alternative rock,mb,1994.0,29.0
+5 Seconds of Summer,0,120488995,1485562,pop rock,pop punk,rock,mb,2014.0,9.0
+Billie Eilish,0,313608331,2548279,pop,indie pop,electropop,f,2019.0,4.0
+Vansire,0,16625052,944605,dream pop,indie pop,indie,mb,2016.0,7.0
+Brenda Lee,0,9261856,1393296,oldies,60s,country,f,1959.0,64.0
+Måneskin,1,53848457,1129302,rock,glam rock,italian,mfb,2018.0,5.0
+Maroon 5,0,178459997,5024992,rock,pop,pop rock,mb,2002.0,21.0
+Madonna,1,227942160,4215241,pop,dance,80s,f,1983.0,40.0
+Flo Rida,1,47715994,3097059,hip hop,rap,southern rap,m,2008.0,15.0
+Marvin Gaye,0,54355707,2760027,soul,motown,funk,m,1961.0,62.0
+The Velvet Underground,0,93848528,2625254,rock,classic rock,psychedelic,mfb,1967.0,56.0
+Lorde,0,239196100,2646019,pop,indie pop,electronic,f,2013.0,10.0
+50 Cent,1,68549028,3676268,rap,hip hop,gangsta rap,m,2003.0,20.0
+TV Girl,1,88966131,1388754,indie pop,lo fi,indie,mb,2014.0,9.0
+The Alchemist,0,22828321,897015,hip hop,rap,producer,m,2004.0,19.0
+Deftones,0,252879073,2789174,nu metal,metal,alternative,mb,1995.0,28.0
+Future,0,177789857,1929532,hip hop,rap,trap,m,2012.0,11.0
+New Order,0,83116187,2505526,new wave,electronic,post punk,mb,1977.0,46.0
+NewJeans,1,129667795,885489,k pop,rnb,pop,fb,2022.0,1.0
+Frank Ocean,1,404409989,2888623,rnb,soul,hip hop,m,2012.0,11.0

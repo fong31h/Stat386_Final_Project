@@ -17,10 +17,12 @@ plt.subplot(1,2,1)
 plt.title('Age since first album against listeners and playcount,' 
           ' respectively')
 sns.regplot(data=artists, 
-                         x='age (since 1st album)', y='listeners')
+                         x='age (since 1st album)', y='listeners',
+                         color = '#17205e')
 plt.ylabel('Listeners (millions)')
 plt.subplot(1,2,2)
-sns.regplot(data=artists, x='age (since 1st album)', y = 'playcount')
+sns.regplot(data=artists, x='age (since 1st album)', y = 'playcount',
+            color = '#1f420d')
 plt.ylabel('Play count (billions)')
 st.pyplot(fig)
 st.caption('Interestingly, age correlates with increased'
@@ -30,25 +32,27 @@ st.subheader('What if we partition the time frames differently?')
 st.markdown('I split the years into three periods with a similar'
             ' amount of artists')
 fig, axs = plt.subplots(3, 2, figsize=(6,9))
+palette = sns.set_palette('Set2')
 plt.subplot(3,2,1)
 plt.title('2016-2023, n=108')
 sns.regplot(data=artists[artists['age (since 1st album)'] < 8], 
-                x='age (since 1st album)', y='listeners')
+                x='age (since 1st album)', y='listeners',
+                color='#278ad6')
 plt.ylabel('listeners (millions)')
 plt.subplot(3,2,2)
 sns.regplot(data=artists[artists['age (since 1st album)'] < 8], 
-                x='age (since 1st album)', y='playcount')
+                x='age (since 1st album)', y='playcount',color='#278ad6')
 plt.ylabel('playcount (hundreds of millions)')
 plt.subplot(3,2,3)
 plt.title('2002-2015, n=121')
 sns.regplot(data=artists[(artists['age (since 1st album)'] >= 8) & 
                         (artists['age (since 1st album)'] <= 21)], 
-                x='age (since 1st album)', y='listeners')
+                x='age (since 1st album)', y='listeners',color='#aa27d6')
 plt.ylabel('listeners (millions)')
 plt.subplot(3,2,4)
 sns.regplot(data=artists[(artists['age (since 1st album)'] >= 8) & 
                         (artists['age (since 1st album)'] <= 21)], 
-                x='age (since 1st album)', y='playcount')
+                x='age (since 1st album)', y='playcount',color='#aa27d6')
 plt.ylabel('playcount (billions)')
 plt.subplot(3,2,5)
 plt.title('1946-2001, n=114')
@@ -80,11 +84,11 @@ fig, axs = plt.subplots(1,2,figsize=(10,5))
 plt.subplot(1,2,1)
 plt.ylim(0, 7500000)
 sns.barplot(data=artists[artists['age (since 1st album)'] == selected_year], 
-                x='age (since 1st album)', y='listeners')
+                x='age (since 1st album)', y='listeners',color='#d6274a')
 plt.subplot(1,2,2)
 plt.ylim(0,2000000000)
 sns.barplot(data=artists[artists['age (since 1st album)'] == selected_year], 
-                x='age (since 1st album)', y='playcount')
+                x='age (since 1st album)', y='playcount',color='#d6274a')
 st.pyplot(fig)
 st.subheader('Factor 2: Sex')
 st.markdown('I labeled the artists as male, female, male band,'
